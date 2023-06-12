@@ -28,7 +28,7 @@ $$g(x)=\cos^4(x)$$
 
 <hr>
 
-#### Now find \dot{f}(x)$  and $\dot{g}(x)$
+#### Now find $\dot{f}(x)$  and $\dot{g}(x)$
 
 $$\dot{f}(x) = 2\cdot x^2$$
 
@@ -41,3 +41,14 @@ $$\dot{g}(x) = \text{We need the chain rule now}$$
 $$
 {dy \over dx} = {dy \over du} \cdot {du \over dx}
 $$
+
+<hr>
+
+#### $u(x)$
+
+$$
+y=u^4
+
+u=\cos x
+$$
+
