@@ -39,4 +39,4 @@ $$ -3 \csc (3x) \cdot ({cot (3x) \over x^3} + {1 \over x^4}) $$
 
 $$ -3 \csc (3x) \cdot ({cot (3x) \over x^3}\cdot{x \over x} + {1 \over x^4}) $$
 
-
+$$ -3 \csc (3x) \cdot ({x\cdot cot (3x) \over x^4} + {1 \over x^4}) $$
