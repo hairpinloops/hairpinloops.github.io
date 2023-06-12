@@ -1,3 +1,10 @@
+---
+title: Hairpinloops Calculus 1
+permalink: /
+---
+{% include math.html %}
+
+
 #### Problem:
 $$y = x^2 \cdot \cos^4(x)$$
 
