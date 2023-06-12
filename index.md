@@ -5,6 +5,9 @@ permalink: /
 {% include math.html %}
 
 
+[ch3](math/ch3/cosecant_problem.md)
+
+
 #### Problem:
 $$y = x^2 \cdot \cos^4(x)$$
 
