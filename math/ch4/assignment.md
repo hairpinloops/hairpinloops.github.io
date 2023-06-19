@@ -76,10 +76,10 @@ ${d(V) \over dt} = {d(u\cdot v) = d\left(\pi \cdot r(t)^2 \cdot h(t)\right)\over
 
 What the word problem gives us is $\frac{d(r)}{d(t)}$ and $\frac{d(h)}{d(t)}$
 
-$ = {2\pi\cdot r \cdot dr \over dt}\cdot{dh \over dt}$
+$= {2\pi\cdot r \cdot dr \over dt}\cdot{dh \over dt}$
 
 
-$ = 2\pi\cdot r \cdot{ dr \over dt}\cdot{dh \over dt}$
+$= 2\pi\cdot r \cdot{ dr \over dt}\cdot{dh \over dt}$
 
 $\Delta r$ gets replaced with $dr$
 
