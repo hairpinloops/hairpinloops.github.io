@@ -1,6 +1,5 @@
 ---
 ---
-{% include MathJax %}
 
 # Introduction to Calculus
 
