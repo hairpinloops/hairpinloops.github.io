@@ -107,6 +107,8 @@ Or in our case $d(2\cdot x\cdot dx) = 2\cdot d(x) \cdot dx$ end of aside.
 
 $d(2\cdot x) \cdot dx + d(2\cdot y) \cdot dy = 0$
 
+$2\cdot d(x) \cdot dx + 2\cdot d(y) \cdot dy = 0$
+
 $2\cdot dx \cdot dx + 2\cdot dy \cdot dy = 0$
 
 $2\cdot d^2x + 2\cdot d^2y = 0$
