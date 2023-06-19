@@ -99,6 +99,12 @@ $d(2\cdot x \cdot dx + 2\cdot y \cdot dy) = d(0)$
 
 $d(2\cdot x \cdot dx) + d(2\cdot y \cdot dy) = d(0)$
 
+Aside, $dx$ is treated like a constant when inside $d()$.  So for example $d(2\cdot x) = 2\cdot d(x)$
+
+Let's apply that idea $d(x\cdot dx) = d(x)\cdot dx$ 
+
+Or in our case $d(2\cdot x\cdot dx) = 2\cdot d(x) \cdot dx$ end of aside.
+
 $d(2\cdot x) \cdot dx + d(2\cdot y) \cdot dy = 0$
 
 $2\cdot dx \cdot dx + 2\cdot dy \cdot dy = 0$
