@@ -83,3 +83,24 @@ $= 2\pi\cdot r \cdot{ dr \over dt}\cdot{dh \over dt}$
 
 $\Delta r$ gets replaced with $dr$
 
+
+<hr>
+
+
+## $x^2 + y^2 = 25$
+
+$d(x^2 + y^2) = d(25)$
+
+$2\cdot x \cdot dx + 2\cdot y \cdot dy = 0$
+
+Apply $d$ operator again to find second derivative.
+
+$d(2\cdot x \cdot dx + 2\cdot y \cdot dy) = d(0)$
+
+$d(2\cdot x \cdot dx) + d(2\cdot y \cdot dy) = d(0)$
+
+$d(2\cdot x) \cdot dx + d(2\cdot y) \cdot dy = 0$
+
+$2\cdot dx \cdot dx + 2\cdot dy \cdot dy = 0$
+
+$2\cdot d^2x + 2\cdot d^2y = 0$
