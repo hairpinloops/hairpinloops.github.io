@@ -112,3 +112,17 @@ $2\cdot d(x) \cdot dx + 2\cdot d(y) \cdot dy = 0$
 $2\cdot dx \cdot dx + 2\cdot dy \cdot dy = 0$
 
 $2\cdot d^2x + 2\cdot d^2y = 0$
+
+
+
+
+$f(x) = x^3-(\frac{3}{2})x^2-18x$
+
+$\dot{f}(x)=3x^2-3x-18$
+
+$\ddot{f}(x)=6x-3$
+
+$\ddot{f}(3)=6(3)-3=15$
+
+$\ddot{f}(-2)=6(-2)-3=-15$
+
