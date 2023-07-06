@@ -161,5 +161,16 @@ $x \approx 0.131 or 2.535$
 
 $\dot{f}(x) = 3x^2 - 8x + 1$
 
-$(x,\dot{f}(x))(0,1)(1,-4)(2,-3)(3,4)$
+$(x,\dot{f}(x))(0,1)(2,-3)(3,4)$
+
+The first critical point is a maximum, and the second one is a minimum.
+
+$f(x)$ is increasing over $-\infty < x < 0.131$ and $2.535 < x < \infty$. It decreasing over $0.131 < x < 2.535$.
+
+$\ddot{f}(x) = 2(3x - 4)$
+
+$0 = 2(3(\frac{4}{3})-4)$
+
+$\frac{4}{3}$ is the inflection point.
+
 
