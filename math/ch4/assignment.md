@@ -173,4 +173,6 @@ $0 = 2(3(\frac{4}{3})-4)$
 
 $\frac{4}{3}$ is the inflection point.
 
+201
 
+$-\infty < x < -2$
