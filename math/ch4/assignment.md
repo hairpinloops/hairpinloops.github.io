@@ -175,4 +175,6 @@ $\frac{4}{3}$ is the inflection point.
 
 201
 
-$-\infty < x < -2$
+It is decreasing over $-\infty < x < -2$ and $-1 < x < 2$.
+
+It is increasing over  $-2 < x < -1$ and $2 < x < \infty$
