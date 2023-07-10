@@ -201,5 +201,18 @@ $\ddot{f}(x)$ has zeros at $x = 0$ and $x = \frac{540}{110}$
 
 $f(x)$ is increasing over $(-\infty, 0)$ and $(\frac{60}{11}, \infty)$, and decreasing over $(0,\frac{60}{11})$
 
-$f(x)$
+$f(x)$ has a local maximum at $x = 0$, and a local minimum at $x = \frac{60}{11}$
 
+$\ddot{f}(x)$ has zeros at $x = 0$ and $x = \frac{540}{110}$
+
+$f(x)$ is concave down over $(-\infty,\frac{540}{110})$, and concave up over $(\frac{540}{110},\infty)$  
+
+$f(x)$ has an inflection point at $x = \frac{540}{110}$
+
+$f(x)=\sin(\pi(x)) - \cos(\pi(x))$ over $[-1,1]$
+
+$\dot{f}(x)$ = \cos(\pi(x))(\pi) + \sin(\pi(x))(\pi)$
+
+231
+
+$\ddot{f}(x) = -\sin(\pi(x))(\pi) + \cos$
