@@ -195,8 +195,11 @@ $\ddot{f}(x) = x^8(110x - 540)$
 
 $f(x)$ has zeros at $x = 0$ and  $x = 6$
 
-$\dot{f}(x)$ has zeros at $x = 0$ and $x = \frac{60}{11}$
+$\dot{f}(x)$ has zeros at $x = 0$ and $x = \frac{60}{11}$ 
 
 $\ddot{f}(x)$ has zeros at $x = 0$ and $x = \frac{540}{110}$
 
-$f(x) is increasing over (-\infty, 0) and (\frac{60}{11}, \infty)$, and decreasing over (0,\frac{60}{11})
+$f(x)$ is increasing over $(-\infty, 0)$ and $(\frac{60}{11}, \infty)$, and decreasing over $(0,\frac{60}{11})$
+
+$f(x)$
+
