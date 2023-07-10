@@ -178,3 +178,25 @@ $\frac{4}{3}$ is the inflection point.
 It is decreasing over $-\infty < x < -2$ and $-1 < x < 2$.
 
 It is increasing over  $-2 < x < -1$ and $2 < x < \infty$
+
+227
+
+$f(x) = x^{11} - 6x^{10}$
+
+$\dot{f}(x) = 11x^{10} - 60x^{9}$
+
+$\ddot{f}(x) = 110x^{9} - 540x^{8}$
+
+$f(x) = x^{10}(x - 6)$
+
+$\dot{f}(x) = x^9(11x - 60)$
+
+$\ddot{f}(x) = x^8(110x - 540)$
+
+$f(x)$ has zeros at $x = 0$ and  $x = 6$
+
+$\dot{f}(x)$ has zeros at $x = 0$ and $x = \frac{60}{11}$
+
+$\ddot{f}(x)$ has zeros at $x = 0$ and $x = \frac{540}{110}$
+
+$f(x) is increasing over (-\infty, 0) and (\frac{60}{11}, \infty)$, and decreasing over (0,\frac{60}{11})
