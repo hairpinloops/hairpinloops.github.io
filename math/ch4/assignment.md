@@ -209,10 +209,11 @@ $f(x)$ is concave down over $(-\infty,\frac{540}{110})$, and concave up over $(\
 
 $f(x)$ has an inflection point at $x = \frac{540}{110}$
 
-$f(x)=\sin(\pi(x)) - \cos(\pi(x))$ over $[-1,1]$
-
-$\dot{f}(x)$ = \cos(\pi(x))(\pi) + \sin(\pi(x))(\pi)$
-
 231
 
-$\ddot{f}(x) = -\sin(\pi(x))(\pi) + \cos$
+$f(x)=\sin(\pi(x)) - \cos(\pi(x))$ over $[-1,1]$
+
+$\dot{f}(x)$ = $\cos(\pi(x))(\pi) + \sin(\pi(x))(\pi)$
+
+$\ddot{f}(x) = -\sin(\pi(x))(\pi) + \cos(\pi(x))$
+
