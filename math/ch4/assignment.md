@@ -259,3 +259,12 @@ $f(5) = 2(5)^3 - 21(5)^2 + 60(5) = 25$
 
 $f(5) = 2(6)^3 - 21(6)^2 + 60(6) = 36$
 
+🖤
+
+Let $h(x) = x^3 - 6x^2 + 8$. Find the x value of the absolute minimum over $-1 \geq x \geq 6$
+
+$\dot{h}(x) = 3x^2 - 12x$. 
+
+$\dot{h}(x) = 3x(x - 4)$
+
+$\dot{h}(x)$ has a zero at $x = 4$
