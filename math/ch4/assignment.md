@@ -223,4 +223,6 @@ $\dot{f}(x) = -3x(x - 2)$
 
 $\dot{f}(x)$ has zeros at $x = 0$ and $x = 2$
 
+$f(x)$ is increasing over $(0,2)$ and deacreasing over [-2,0) and (2,5]
 
+$f(x)$ has a local minimum at $x = 0$, and a local maximum at $x = 2$
