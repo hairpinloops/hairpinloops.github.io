@@ -251,4 +251,11 @@ $\dot{g}(x)$ has zeros at $x = 2$ and $x = 5$
 
 $f(x)$ is increasing over $[0,2) and (5,6]$. $f(x)$ is deacreasing over $(2,5)$
 
-$$
+$f(x)$ has a local maximum at $x = 2$, and a local minimum at $x = 5$
+
+$f(2) = 2(2)^3 - 21(2)^2 + 60(2) = 52$
+
+$f(5) = 2(5)^3 - 21(5)^2 + 60(5) = 25$
+
+$f(5) = 2(6)^3 - 21(6)^2 + 60(6) = 36$
+
