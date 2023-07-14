@@ -267,4 +267,16 @@ $\dot{h}(x) = 3x^2 - 12x$.
 
 $\dot{h}(x) = 3x(x - 4)$
 
-$\dot{h}(x)$ has a zero at $x = 4$
+$\dot{h}(x)$ has a zero at $x = 4$ and $x = 0$
+
+$h(x)$ is increasing over $[-1,0)$ and $(4,6]$. It is deacreasing over $(0,4)$.
+
+$h(x)$ has a local maximum at $x = 0$, and a local minimum at $x = 4$
+
+$h(0) = (0)^3 - 6(0)^2 + 8 = 8$
+
+$h(4) = (4)^3 - 6(4)^2 + 8 = -8$
+
+$h(6) = (6)^3 - 6(6)^2 + 8 = 8$
+
+$h(-1) = (-1)^3 - 6(-1)^2 + 8 = 1$
