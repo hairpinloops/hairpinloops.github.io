@@ -213,7 +213,14 @@ $f(x)$ has an inflection point at $x = \frac{540}{110}$
 
 $f(x)=\sin(\pi(x)) - \cos(\pi(x))$ over $[-1,1]$
 
-$\dot{f}(x)$ = $\cos(\pi(x))(\pi) + \sin(\pi(x))(\pi)$
+🖤
 
-$\ddot{f}(x) = -\sin(\pi(x))(\pi) + \cos(\pi(x))$
+Let $f(x) = -x^3 + 3x^2 - 6$. Find absolute max x value over $[-2,5]$
+
+$\dot{f}(x) = -3x^2 + 6x$
+
+$\dot{f}(x) = -3x(x - 2)$
+
+$\dot{f}(x)$ has zeros at $x = 0$ and $x = 2$
+
 
