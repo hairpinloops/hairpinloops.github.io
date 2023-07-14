@@ -236,3 +236,19 @@ $f(3) = -(3)^3 + 3(3)^2 - 6 = -6$
 $f(3) = -(5)^3 + 3(5)^2 - 6 = -56$
 
 $f(2) = -(2)^3 + 3(2)^2 - 6 = -2$
+
+🖤
+
+Let $g(x) = 2x^3 - 21x^2 + 60x$. Find the maximum value of g over [0,6].
+
+$\dot{g}(x) = 6x^2 - 42x + 60$
+
+$\dot{g}(x) = 6(x^2 - 7x + 10)$
+
+$\dot{g}(x) = 6(x - 2)(x - 5)$
+
+$\dot{g}(x)$ has zeros at $x = 2$ and $x = 5$
+
+$f(x)$ is increasing over $[0,2) and (5,6]$. $f(x)$ is deacreasing over $(2,5)$
+
+$$
