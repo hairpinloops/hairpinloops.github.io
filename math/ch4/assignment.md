@@ -226,3 +226,13 @@ $\dot{f}(x)$ has zeros at $x = 0$ and $x = 2$
 $f(x)$ is increasing over $(0,2)$ and deacreasing over [-2,0) and (2,5]
 
 $f(x)$ has a local minimum at $x = 0$, and a local maximum at $x = 2$
+
+$f(-2)=-(-2)^3 + 3(-2)^2 - 6 = 14$
+
+$f(1) = -(1)^3 + 3(1)^2 - 6 = -4$
+
+$f(3) = -(3)^3 + 3(3)^2 - 6 = -6$
+
+$f(3) = -(5)^3 + 3(5)^2 - 6 = -56$
+
+$f(2) = -(2)^3 + 3(2)^2 - 6 = -2$
