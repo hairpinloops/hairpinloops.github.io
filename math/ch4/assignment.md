@@ -304,3 +304,17 @@ $\dot{g}(x)$ has a zero at $x = e$
 $g(x)$ is deacreasing over $(-\infty,e)$, and increasing over $(e,\infty)$.
 
 $g(x) = \frac{\ln(e)}{e} = \frac{1}{e}$
+
+🖤
+
+Let $f(x)= -x^4 + 8x^2 - 8$. What is the absolute minimum of f?
+
+$\dot{f}(x) = -4x^3 + 16x$
+
+$\dot{f}(x) = -4x(x^2 - 4)$
+
+$\dot{f}(x) = -4x(x - 2)(x + 2)$
+
+$\dot{f}(x)$ has zeros at $x = 2$ , $x = 0$ and $x = -2$
+
+$f(x)$ is increasing over $(-\infty,-2)$ and $(0,2)$. It is deacreasing over (-2,0) and (2,\infty)
