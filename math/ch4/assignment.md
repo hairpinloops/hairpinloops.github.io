@@ -318,3 +318,5 @@ $\dot{f}(x) = -4x(x - 2)(x + 2)$
 $\dot{f}(x)$ has zeros at $x = 2$ , $x = 0$ and $x = -2$
 
 $f(x)$ is increasing over $(-\infty,-2)$ and $(0,2)$. It is deacreasing over (-2,0) and (2,\infty)
+
+$f(x)$ has local maxima at $x = -2$ and $x = 2$. It has local a local minimum at $x = 0$ 
