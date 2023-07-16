@@ -292,3 +292,15 @@ $\dot{g}(x) = 24x(x^2 - 4x + 4)$
 $\dot{g}(x) = 24x(x - 2)(x - 2)$
 
 min $= 0$
+
+🖤
+
+Let $g(x) = \frac{\ln(x)}{x}$. What is the absolute maximum of g?
+
+$\dot{g}(x) = \frac{1 - \ln(x)}{x^2}$
+
+$\dot{g}(x)$ has a zero at $x = e$
+
+$g(x)$ is deacreasing over $(-\infty,e)$, and increasing over $(e,\infty)$.
+
+$g(x) = \frac{\ln(e)}{e} = \frac{1}{e}$
