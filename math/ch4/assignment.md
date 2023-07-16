@@ -283,8 +283,12 @@ $h(-1) = (-1)^3 - 6(-1)^2 + 8 = 1$
 
 🖤
 
-Let $g(x) = x^2\ln(x)$
+Let $g(x) = 6x^4 - 32x^3 + 48x^2 - 7$. What is the the absolute minimum of g?
 
-$\dot{g}(x) = 2x\ln(x) + \frac{x^2}{x}$
+$\dot{g}(x) = 24x^3 - 96x^2 + 96x$
 
-$\dot{}$
+$\dot{g}(x) = 24x(x^2 - 4x + 4)$
+
+$\dot{g}(x) = 24x(x - 2)(x - 2)$
+
+min $= 0$
